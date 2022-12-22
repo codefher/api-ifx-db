@@ -1,0 +1,3 @@
+ export CSDK_HOME=/opt/IBM/Informix_Client-SDK
+ export INFORMIXDIR=${CSDK_HOME}
+ export LD_LIBRARY_PATH=${INFORMIXDIR}/lib/esql:${INFORMIXDIR}/lib/cli
